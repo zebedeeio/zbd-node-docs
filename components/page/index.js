@@ -5,9 +5,9 @@ import { useSearch } from 'lib/search-context'
 
 export default ({
   children,
-  title = '@zbd/node - ZBD Node.js SDK',
-  description = 'The one library you need to use ZBD API in your Node.js project. The SDK provides everything necessary to start adding instant Bitcoin payments to your application, game, or platform.',
-  image = 'https://i.imgur.com/NxlH1SR.png',
+  title = 'ZBD Node.js SDK - @zbd/node',
+  description = 'Use ZBD API in your Node.js project. The SDK provides everything necessary to start adding instant Bitcoin payments to your application, game, or platform.',
+  image = 'https://i.imgur.com/z706Rn0.png',
 }) => {
   const { search } = useSearch()
 
