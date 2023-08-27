@@ -24,7 +24,7 @@ export default () => (
       </div>
 
       <a
-        href="https://zebedee.io"
+        href="https://zbd.gg"
         target="_blank"
         rel="noopener noreferrer"
         className={styles.zbd}

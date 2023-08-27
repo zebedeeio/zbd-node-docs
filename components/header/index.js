@@ -29,7 +29,7 @@ export default () => {
       <header className={styles.header}>
         <div className={styles.logo}>
           <a
-            href="https://zebedee.io"
+            href="https://zbd.gg"
             target="_blank"
             rel="noopener noreferrer"
             className={styles.vercel}

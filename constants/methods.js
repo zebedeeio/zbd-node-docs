@@ -31,7 +31,7 @@ export const methods = [
     examples: [
       {
         name: 'View response payload examples',
-        url: 'https://docs.zebedee.io/api/charges/create',
+        url: 'https://zbd.dev/api-reference/charges/create',
       },
       {
         name: 'View source code example examples',
@@ -54,7 +54,7 @@ export const methods = [
     examples: [
       {
         name: 'View response payload examples',
-        url: 'https://docs.zebedee.io/api/charges/get',
+        url: 'https://zbd.dev/api-reference/charges/get',
       },
       {
         name: 'View source code example examples',
@@ -78,7 +78,7 @@ export const methods = [
     examples: [
       {
         name: 'View response payload examples',
-        url: 'https://docs.zebedee.io/api/charges/decode',
+        url: 'https://zbd.dev/api-reference/charges/decode',
       },
       {
         name: 'View source code example examples',
@@ -130,7 +130,7 @@ export const methods = [
     examples: [
       {
         name: 'View response payload examples',
-        url: 'https://docs.zebedee.io/api/static-charges/create',
+        url: 'https://zbd.dev/api-reference/static-charges/create',
       },
       {
         name: 'View source code example examples',
@@ -153,7 +153,7 @@ export const methods = [
     examples: [
       {
         name: 'View response payload examples',
-        url: 'https://docs.zebedee.io/api/static-charges/get',
+        url: 'https://zbd.dev/api-reference/static-charges/get',
       },
       {
         name: 'View source code example examples',
@@ -202,7 +202,7 @@ export const methods = [
     examples: [
       {
         name: 'View response payload examples',
-        url: 'https://docs.zebedee.io/api/static-charges/update',
+        url: 'https://zbd.dev/api-reference/static-charges/update',
       },
       {
         name: 'View source code example examples',
@@ -244,7 +244,7 @@ export const methods = [
     examples: [
       {
         name: 'View response payload examples',
-        url: 'https://docs.zebedee.io/api/withdrawal-requests/create',
+        url: 'https://zbd.dev/api-reference/withdrawal-requests/create',
       },
       {
         name: 'View source code example examples',
@@ -266,7 +266,7 @@ export const methods = [
     examples: [
       {
         name: 'View response payload examples',
-        url: 'https://docs.zebedee.io/api/withdrawal-requests/get',
+        url: 'https://zbd.dev/api-reference/withdrawal-requests/get',
       },
       {
         name: 'View source code example examples',
@@ -306,7 +306,7 @@ export const methods = [
     examples: [
       {
         name: 'View response payload examples',
-        url: 'https://docs.zebedee.io/api/lightning-address/send-payment',
+        url: 'https://zbd.dev/api-reference/lightning-address/send-payment',
       },
       {
         name: 'View source code example examples',
@@ -329,7 +329,7 @@ export const methods = [
     examples: [
       {
         name: 'View response payload examples',
-        url: 'https://docs.zebedee.io/api/lightning-address/validate',
+        url: 'https://zbd.dev/api-reference/lightning-address/validate',
       },
     ],
   },
@@ -357,7 +357,7 @@ export const methods = [
     examples: [
       {
         name: 'View response payload examples',
-        url: 'https://docs.zebedee.io/api/lightning-address/create-charge',
+        url: 'https://zbd.dev/api-reference/lightning-address/create-charge',
       },
       {
         name: 'View source code example examples',
@@ -373,7 +373,7 @@ export const methods = [
     examples: [
       {
         name: 'View response payload examples',
-        url: 'https://docs.zebedee.io/api/wallet/get',
+        url: 'https://zbd.dev/api-reference/wallet/get',
       },
       {
         name: 'View source code example examples',
@@ -401,7 +401,7 @@ export const methods = [
     examples: [
       {
         name: 'View response payload examples',
-        url: 'https://docs.zebedee.io/api/internal-transfer/initiate',
+        url: 'https://zbd.dev/api-reference/internal-transfer/initiate',
       },
       {
         name: 'View source code example examples',
@@ -441,7 +441,7 @@ export const methods = [
     examples: [
       {
         name: 'View response payload examples',
-        url: 'https://docs.zebedee.io/api/keysend/send-payment',
+        url: 'https://zbd.dev/api-reference/keysend/send-payment',
       },
       {
         name: 'View source code example examples',
@@ -481,7 +481,7 @@ export const methods = [
     examples: [
       {
         name: 'View response payload examples',
-        url: 'https://docs.zebedee.io/api/payments/send',
+        url: 'https://zbd.dev/api-reference/payments/send',
       },
       {
         name: 'View source code example examples',
@@ -503,7 +503,7 @@ export const methods = [
     examples: [
       {
         name: 'View response payload examples',
-        url: 'https://docs.zebedee.io/api/payments/get',
+        url: 'https://zbd.dev/api-reference/payments/get',
       },
       {
         name: 'View source code example examples',
@@ -535,7 +535,7 @@ export const methods = [
     examples: [
       {
         name: 'View response payload examples',
-        url: 'https://docs.zebedee.io/api/gamertag/send-payment',
+        url: 'https://zbd.dev/api-reference/gamertag/send-payment',
       },
       {
         name: 'View source code example examples',
@@ -557,7 +557,7 @@ export const methods = [
     examples: [
       {
         name: 'View response payload examples',
-        url: 'https://docs.zebedee.io/api/gamertag/get-payment',
+        url: 'https://zbd.dev/api-reference/gamertag/get-payment',
       },
       {
         name: 'View source code example examples',
@@ -579,7 +579,7 @@ export const methods = [
     examples: [
       {
         name: 'View response payload examples',
-        url: 'https://docs.zebedee.io/api/gamertag/get-userid',
+        url: 'https://zbd.dev/api-reference/gamertag/get-userid',
       },
       {
         name: 'View source code example examples',
@@ -602,7 +602,7 @@ export const methods = [
     examples: [
       {
         name: 'View response payload examples',
-        url: 'https://docs.zebedee.io/api/gamertag/get-gamertag',
+        url: 'https://zbd.dev/api-reference/gamertag/get-gamertag',
       },
       {
         name: 'View source code example examples',
@@ -625,7 +625,7 @@ export const methods = [
     examples: [
       {
         name: 'View response payload examples',
-        url: 'https://docs.zebedee.io/api/utils/is-supported',
+        url: 'https://zbd.dev/api-reference/utils/is-supported',
       },
       {
         name: 'View source code example examples',
@@ -642,7 +642,7 @@ export const methods = [
     examples: [
       {
         name: 'View response payload examples',
-        url: 'https://docs.zebedee.io/api/utils/prod-ips',
+        url: 'https://zbd.dev/api-reference/utils/prod-ips',
       },
       {
         name: 'View source code example examples',
@@ -659,7 +659,7 @@ export const methods = [
     examples: [
       {
         name: 'View response payload examples',
-        url: 'https://docs.zebedee.io/api/utils/btc-usd',
+        url: 'https://zbd.dev/api-reference/utils/btc-usd',
       },
       {
         name: 'View source code example examples',
